@@ -1,6 +1,6 @@
 # this is my end to end project
 
-# first initialiized the git 
+# first initialized the git 
 ...
 git init
 ...
